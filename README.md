@@ -54,5 +54,7 @@ Welcome to a hands-on journey through beginner to advanced data science tasks! T
 - Tasks 3, 4, & 5: Master Exploratory Data Analysis (EDA) for actionable insights.
 Each task provides hands-on practice with real datasets, helping you develop strong analytical and predictive skills in Python!
 
+---
+
 👩‍💻 Let’s Dive In!
 Use these tasks as a stepping stone to building real-world data analysis and machine learning expertise. Happy coding and exploring! 🚀
