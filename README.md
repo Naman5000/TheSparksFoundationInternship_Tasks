@@ -52,7 +52,6 @@ Welcome to a hands-on journey through beginner to advanced data science tasks! T
 - Task 1 & 6: Learn the fundamentals of supervised ML models.
 - Task 2: Understand unsupervised clustering techniques with K-means.
 - Tasks 3, 4, & 5: Master Exploratory Data Analysis (EDA) for actionable insights.
-Each task provides hands-on practice with real datasets, helping you develop strong analytical and predictive skills in Python!
 
 ---
 
