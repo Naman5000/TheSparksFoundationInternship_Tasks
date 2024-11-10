@@ -1,6 +1,6 @@
-# 🔍 Data Science and Machine Learning Tasks 
+# 🔍 Data Science Tasks 
 
-Welcome to a hands-on journey through beginner to advanced data science tasks! This collection covers essential techniques in **Supervised & Unsupervised Learning** and **Exploratory Data Analysis** with real-world datasets. Perfect for honing your skills in predictive modeling, data visualization, and insights extraction!
+Welcome to a hands-on journey through beginner to advanced data science tasks! This collection covers essential techniques in **Supervised & Unsupervised Learning** and **Exploratory Data Analysis** with real-world datasets.
 
 ---
 
