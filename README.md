@@ -48,12 +48,12 @@ Welcome to a hands-on journey through beginner to advanced data science tasks! T
 
 ---
 
-🌟 Key Learning Outcomes
-- Task 1 & 6: Learn the fundamentals of supervised ML models.
-- Task 2: Understand unsupervised clustering techniques with K-means.
-- Tasks 3, 4, & 5: Master Exploratory Data Analysis (EDA) for actionable insights.
+### 🌟 Key Learning Outcomes
+- **Task 1 & 6**: Learn the fundamentals of supervised ML models.
+- **Task 2**: Understand unsupervised clustering techniques with K-means.
+- **Tasks 3, 4, & 5**: Master Exploratory Data Analysis (EDA) for actionable insights.
 
 ---
 
-👩‍💻 Let’s Dive In!
+### 👩‍💻 Let’s Dive In!
 Use these tasks as a stepping stone to building real-world data analysis and machine learning expertise. Happy coding and exploring! 🚀
